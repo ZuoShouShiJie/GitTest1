@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_11" />
+        <module name="ams-hh1" />
+        <module name="cc1" />
+        <module name="hh1" />
+        <module name="kk1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_11" target="1.5" />
+      <module name="aa" target="1.5" />
+      <module name="aa1" target="1.5" />
+      <module name="aa11" target="1.5" />
+      <module name="ams-hh1" target="1.5" />
+      <module name="bb1" target="1.5" />
+      <module name="cc1" target="1.5" />
+      <module name="dal" target="1.5" />
+      <module name="dd1" target="1.5" />
+      <module name="gg1" target="1.5" />
+      <module name="hh1" target="1.5" />
+      <module name="kk1" target="1.5" />
+      <module name="test2com" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

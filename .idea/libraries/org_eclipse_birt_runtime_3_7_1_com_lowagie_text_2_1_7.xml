@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.eclipse.birt.runtime.3_7_1:com.lowagie.text:2.1.7" type="repository">
+    <properties maven-id="org.eclipse.birt.runtime.3_7_1:com.lowagie.text:2.1.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/com.lowagie.text-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
